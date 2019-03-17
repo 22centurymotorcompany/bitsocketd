@@ -2,6 +2,7 @@
   "name": "fountainhead-bitsocketd",
   "version": "0.1.4",
   "description": "The message bus for bitcoin",
+  "repository": "https://github.com/fountainhead-cash/bitsocketd",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint *.js"
