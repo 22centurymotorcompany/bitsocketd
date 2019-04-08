@@ -1,6 +1,6 @@
 {
   "name": "fountainhead-bitsocketd",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "The message bus for bitcoin",
   "repository": "https://github.com/fountainhead-cash/bitsocketd",
   "main": "index.js",
@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitcore-lib-cash": "^0.18.1",
+    "bitcore-lib-cash": "^8.1.1",
     "cors": "^2.8.4",
     "express": "^4.16.4",
     "fountainhead-bcode": "0.0.6",
-    "fountainhead-bigjq": "0.0.14",
+    "fountainhead-bigjq": "0.0.16",
     "ip": "^1.1.5",
     "mingo": "^2.2.4",
     "zeromq": "^5.0.0"
